@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## My adventures in programming
 
-You can use the [editor on GitHub](https://github.com/LesleyPLangdon/lesleyplangdon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am Lesley Langdon, wife, mother, amateur chef and horticulturist, and cum laude graduate pursuing a new career in computer science.  After careers as a restaurant manager and realtor I have finally found my passion.  My goal is to work in big data but I have enjoyed every course I have taken through my degree program so much that I will savor the opportunity to work my way up through a company.  My dream job will be at a company that is either so small that everyone does everything or a company large enough to encourage team members to explore various roles and responsibilities.    
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thank you for visiting my digital portfolio. This is a collection of projects designed to show the scope of my education and the skills I have collected over the years.  I have done my best in describing each project what the intent was educationally.  
 
-### Markdown
+### Visit my CS499 Capstone [final project](https://github.com/LesleyPLangdon/lesleyplangdon.github.io/CS499FinalProject/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LesleyPLangdon/lesleyplangdon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
