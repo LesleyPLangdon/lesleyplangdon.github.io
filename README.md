@@ -4,6 +4,6 @@ I am Lesley Langdon, wife, mother, amateur chef and horticulturist, and cum laud
 
 Thank you for visiting my digital portfolio. This is a collection of projects designed to show the scope of my education and the skills I have collected over the years.  I have done my best in describing each project what the intent was educationally.  
 
-### Visit my CS499 Capstone [final project](https://github.com/LesleyPLangdon/lesleyplangdon.github.io/CS499FinalProject/)
+### Visit my CS499 Capstone [final project](https://lesleyplangdon.github.io/CS499FinalProject/)
 
 
