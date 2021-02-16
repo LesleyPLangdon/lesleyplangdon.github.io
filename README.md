@@ -10,8 +10,8 @@ Thank you for visiting my digital portfolio. This is a collection of projects de
 
 ### Visit my first adventure in [Full Stack Development](https://lesleyplangdon.github.io/cs465-fullstack/)
 
-### I spent early 2021 participating in a coding bootcamp sponsored by a local tech company. Veiw my work from the database portion [here](https://github.com/LesleyPLangdon/MilesBCRepoDatabase/)
+### I spent early 2021 participating in a coding bootcamp sponsored by a local tech company. View my work from the database portion [here](https://github.com/LesleyPLangdon/MilesBCRepoDatabase/)
 
 ### Review some [writing samples](https://lesleyplangdon.github.io/WritingSamples/)
 
-### Follow my freeCodeCamp progress at https://www.freecodecamp.org/fcc5c42b325-3faa-451f-9351-f0535570a5ea
+### Follow my freeCodeCamp progress at [https://www.freecodecamp.org/fcc5c42b325-3faa-451f-9351-f0535570a5ea]
